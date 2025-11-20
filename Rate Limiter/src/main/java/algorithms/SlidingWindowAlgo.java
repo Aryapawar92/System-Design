@@ -1,6 +1,6 @@
-package algorithms;
+package main.java.algorithms;
 
-import interfaces.RateLimiter;
+import main.java.interfaces.RateLimiter;
 
 import java.util.LinkedList;
 import java.util.Queue;

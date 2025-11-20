@@ -1,4 +1,4 @@
-package config;
+package main.java.config;
 
 public class RateLimiterProperties {
     private final int limit;
